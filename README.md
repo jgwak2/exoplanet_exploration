@@ -55,10 +55,3 @@ Compare the performance of two or more classifiers to determine the best model p
 
 - - -
 
-## Submission
-
-* Create a Jupyter Notebook and host the notebook on GitHub.
-
-* Include a README.md file that summarizes your assumptions and findings.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
